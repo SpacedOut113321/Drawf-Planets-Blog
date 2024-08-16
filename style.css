@@ -1,0 +1,27 @@
+body {
+    background-color:#34495E;
+}
+
+p {
+    color:white;
+}
+
+h1 {
+    color:white;
+}
+
+h2 {
+    color:white;
+}
+
+a:link {
+    color:#d4fbff;
+}
+
+a:visited {
+    color:#b2e5eb;
+}
+
+h3 {
+    color:white;
+}
